@@ -1,0 +1,13 @@
+D:\Sturdy\Project\QuanLyKhachSanDA\DAL\bin\Debug\DAL.dll
+D:\Sturdy\Project\QuanLyKhachSanDA\DAL\bin\Debug\DAL.pdb
+D:\Sturdy\Project\QuanLyKhachSanDA\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Sturdy\Project\QuanLyKhachSanDA\DAL\obj\Debug\DAL.dll
+D:\Sturdy\Project\QuanLyKhachSanDA\DAL\obj\Debug\DAL.pdb
+D:\Sturdy\Project\QuanLyKhachSanDA\DAL\bin\Debug\DAL.dll.config
+D:\Sturdy\Project\QuanLyKhachSanDA\DAL\bin\Debug\WindowsFormsApp1.exe
+D:\Sturdy\Project\QuanLyKhachSanDA\DAL\bin\Debug\EntityFramework.dll
+D:\Sturdy\Project\QuanLyKhachSanDA\DAL\bin\Debug\WindowsFormsApp1.pdb
+D:\Sturdy\Project\QuanLyKhachSanDA\DAL\bin\Debug\WindowsFormsApp1.exe.config
+D:\Sturdy\Project\QuanLyKhachSanDA\DAL\bin\Debug\EntityFramework.xml
+D:\Sturdy\Project\QuanLyKhachSanDA\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Sturdy\Project\QuanLyKhachSanDA\DAL\obj\Debug\DAL.csproj.CopyComplete

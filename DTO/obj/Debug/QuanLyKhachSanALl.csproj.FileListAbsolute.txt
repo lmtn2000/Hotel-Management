@@ -1,0 +1,14 @@
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLyKhachSanALl.csprojAssemblyReference.cache
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLyKhachSanALl.csproj.GenerateResource.cache
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLyKhachSanALl.csproj.CoreCompileInputs.cache
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLyKhachSanALl.csproj.CopyComplete
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

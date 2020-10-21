@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gs2EyAj68oW+9X588JDk/3mOIn5J5c/cJdepQrVM0+jaoR8Alm6YgZNKJZNCVUrm+5L2iGvaYjvn9M7A+onJ+Q==",
+  "success": true,
+  "projectFilePath": "D:\\Sturdy\\Project\\QuanLyKhachSanDA\\DataLayer1\\DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nguyen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nguyen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

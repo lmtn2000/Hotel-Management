@@ -1,0 +1,11 @@
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Form.csprojAssemblyReference.cache
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Form.csproj.GenerateResource.cache
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Form.csproj.CoreCompileInputs.cache
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Sturdy\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

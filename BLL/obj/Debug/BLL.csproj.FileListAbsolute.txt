@@ -1,0 +1,11 @@
+D:\Sturdy\Project\QuanLyKhachSanDA\BLL\bin\Debug\BLL.dll
+D:\Sturdy\Project\QuanLyKhachSanDA\BLL\bin\Debug\BLL.pdb
+D:\Sturdy\Project\QuanLyKhachSanDA\BLL\bin\Debug\DAL.dll
+D:\Sturdy\Project\QuanLyKhachSanDA\BLL\bin\Debug\DAL.pdb
+D:\Sturdy\Project\QuanLyKhachSanDA\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Sturdy\Project\QuanLyKhachSanDA\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Sturdy\Project\QuanLyKhachSanDA\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Sturdy\Project\QuanLyKhachSanDA\BLL\obj\Debug\BLL.dll
+D:\Sturdy\Project\QuanLyKhachSanDA\BLL\obj\Debug\BLL.pdb
+D:\Sturdy\Project\QuanLyKhachSanDA\BLL\bin\Debug\DAL.dll.config
+D:\Sturdy\Project\QuanLyKhachSanDA\BLL\bin\Debug\BLL.dll.config
